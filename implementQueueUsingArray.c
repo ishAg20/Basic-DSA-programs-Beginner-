@@ -1,4 +1,3 @@
-//22BCE3179_IshikaAgarwal
 #include<stdio.h>
 #include<conio.h>
 int front=-1,rear=-1,choice=0,ele,n,i;
